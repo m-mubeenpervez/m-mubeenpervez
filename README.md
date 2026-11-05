@@ -1,76 +1,67 @@
+<div align="center">
 
 # Hi, I'm Mubeen Pervez 👋
 
-### Generative AI | AI/ML | Python | LLMs | RAG | AI Agents
+**AI Engineer | Generative AI | Machine Learning | Python**
 
-I'm a developer with **2+ years of experience in WordPress development**, currently expanding my expertise into **Generative AI, Machine Learning, and AI-powered application development**.
+Building practical AI applications, agent-based workflows, and reliable software systems.
 
-My focus is on building practical AI solutions using Python, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and multi-agent systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubeen-pervez/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/m-mubeenpervez)
 
-I enjoy understanding how technologies work, experimenting with new ideas, and turning what I learn into working applications.
+</div>
 
----
+## About Me
 
-## 👨‍💻 About Me
+I'm a developer focused on **Generative AI, machine learning, and Python-based applications**. I work with **large language models (LLMs), retrieval-augmented generation (RAG), AI agents, and multi-agent workflows**, and I enjoy connecting these systems to practical tools, APIs, and data.
 
-- 🔭 Currently working on AI/ML and Generative AI at **AppsGenii**.
-- 🤖 Building AI agents and multi-agent workflows using **Google ADK**.
-- 🧠 Working with **LLMs, RAG, embeddings, and vector databases**.
-- 🐍 Developing Python applications with database and API integrations.
-- 🌐 Bringing **2+ years of WordPress development experience**.
-- 📚 Continuously learning and improving my AI engineering skills.
+My background also includes **2+ years of WordPress development experience**, giving me a foundation in building and maintaining real-world web applications. My current portfolio brings together agentic AI, traditional machine learning, and full-stack engineering.
 
----
+## Technical Skills
 
-## 🛠️ Technical Skills
+| Area | Technologies & Concepts |
+| --- | --- |
+| **AI & Agentic Systems** | Generative AI, LLMs, RAG, AI Agents, Multi-Agent Systems, Prompt Engineering |
+| **AI Frameworks & Retrieval** | Google ADK, Gemini, MCP, Qdrant, Embeddings |
+| **Machine Learning & Data** | Scikit-learn, Pandas, NumPy, Feature Engineering, Model Evaluation |
+| **Backend & Databases** | Python, FastAPI, REST APIs, PostgreSQL, SQLite, SQLAlchemy |
+| **Web & Developer Tools** | React, JavaScript, WordPress, WooCommerce, Git, GitHub, Docker, pytest |
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, PHP, JavaScript |
-| Generative AI | LLMs, RAG, Prompt Engineering |
-| AI Agents | Google ADK, Multi-Agent Workflows |
-| Local LLMs | Ollama, LiteLLM, Qwen2.5 |
-| Vector Databases | Qdrant, ChromaDB |
-| Backend & Databases | FastAPI, SQLite, PostgreSQL |
-| Web Development | WordPress, WooCommerce, Shopify |
-| Tools | Git, GitHub, VS Code |
+## Featured Projects
 
----
+### 1. [CompanyAI — Secure Multi-Agent AI Platform](https://github.com/m-mubeenpervez/company-ai-multiagent)
 
-## 🚀 Project Experience
+A **local development** multi-agent company management application using **Python, Google ADK, Gemini, MCP, SQLite, and Qdrant-backed RAG**. Its architecture includes specialist agents, semantic routing, business tools, handbook retrieval, and role-aware access controls.
 
-### CompanyAI — Multi-Agent Company Management System
+**Focus:** Agent orchestration · RAG · MCP tool integration · Authentication & authorization
 
-Worked on a multi-agent application designed to handle company-related operations through specialized AI agents and structured workflows.
+### 2. [Customer Churn Prediction — Machine Learning](https://github.com/m-mubeenpervez/customer-churn-prediction)
 
-**Key technical areas:**
-- Multi-agent orchestration using Google ADK
-- Deterministic Python-based request routing
-- RAG-based document retrieval
-- Local LLM integration
-- SQLite and Qdrant integration
-- Agent tools, sessions, and state management
+An end-to-end supervised learning project for predicting customer churn. Covers **data exploration, preprocessing, feature engineering, classification model comparison, cross-validation, hyperparameter tuning, and evaluation** with Python and Scikit-learn.
 
-*Project description only. Company-related source code and internal information are not published here.*
+**Focus:** Predictive modeling · Classification · Scikit-learn · Model evaluation
 
----
+### 3. [GrowthPulse — Learning & Daily Progress Management](https://github.com/m-mubeenpervez/growthpulse)
 
-## 🎯 Current Focus
+A full-stack application for intern management and daily progress reporting, built with **FastAPI, React, and PostgreSQL**. Includes separate admin/intern portals, REST APIs, authentication, role-based access, and progress dashboards.
 
-- Building LLM-powered applications
-- Developing AI agents and agent workflows
-- Improving RAG and retrieval techniques
-- Strengthening Python and backend development
-- Exploring agent orchestration and AI system design
+**Focus:** Python backend · REST APIs · PostgreSQL · Full-stack development
 
----
+## Certification
 
-## 🤝 Connect With Me
+**[Google AI Essentials — Google (via Coursera)](https://coursera.org/verify/specialization/RSV8RSV8WSY7)**  
+*Completed October 2026*
 
-- **LinkedIn:** [Mubeen Pervez](https://www.linkedin.com/in/mubeen-pervez/)
-- **GitHub:** [@m-mubeenpervez](https://github.com/m-mubeenpervez/)
+Five-course program covering AI fundamentals, productivity with AI tools, prompting, responsible AI use, and continued learning.
+
+## Current Focus
+
+- Building and evaluating AI agents and multi-agent applications
+- Improving RAG pipelines and LLM-powered workflows
+- Strengthening machine learning and Python backend engineering
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/mubeen-pervez](https://www.linkedin.com/in/mubeen-pervez/)
+- **GitHub:** [github.com/m-mubeenpervez](https://github.com/m-mubeenpervez)
 - **Email:** [m.mubeenpervez@gmail.com](mailto:m.mubeenpervez@gmail.com)
-
----
-
-*Building on my software development experience to create practical and intelligent AI-powered solutions.*
